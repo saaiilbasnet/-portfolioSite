@@ -20,19 +20,8 @@ Open the index.html file in a web browser to view the portfolio.
 (Optional) If you'd like to make changes, edit the HTML, CSS, or JavaScript files in the project directory.
 
 
-# Folder Structure
 
-
-Edit
-portfolio/
-├── index.html      # Main HTML file
-├── css/            # Contains all CSS files
-│   └── style.css   # Main stylesheet
-├── js/             # Contains JavaScript files
-│   └── script.js   # Main JavaScript file
-├── assets/         # Folder for images, icons, etc.
-└── README.md       # Project documentation
-How It Works
+**How It Works**
 HTML: Provides the structure of the webpage, including sections for projects, skills, and contact.
 CSS: Adds styling, such as fonts, colors, and layout. Includes media queries for responsive design.
 JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form handling.
