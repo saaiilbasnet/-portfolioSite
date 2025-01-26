@@ -64,9 +64,9 @@ Email: basnetssahil@gmail.com.com
 
 LinkedIn: www.linkedin.com/in/saaiil-basnet-07b617281  
 
-GitHub: github.com/saaiilbasnet  
+GitHub: www.github.com/saaiilbasnet  
 
-
+Feel free to text me whenever you need help.
 **Dhanyabaad!**
 
 
