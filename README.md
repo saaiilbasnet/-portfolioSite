@@ -1,16 +1,16 @@
-A personal portfolio webpage showcasing my projects, skills, and achievements. Built using HTML, CSS, and JavaScript, the site is designed to be responsive and visually appealing across various devices.
+A personal portfolio webpage showcasing my projects, skills, and achievements. Built using HTML, CSS, and JavaScript, the site is designed to be responsive and visually appealing across various devices.  
 
-Features
-About Section: Brief introduction about myself.
-Projects Section: Display of my key projects with descriptions, technologies used, and links to live demos or GitHub repositories.
-Skills Section: A list of my technical and soft skills.
-Contact Section: Contact form and social media links for networking.
-Responsive Design: Optimized for all screen sizes, including mobile, tablet, and desktop.
-Technologies Used
-HTML: For the structure of the webpage.
-CSS: For styling and layout, including animations and responsive design.
-JavaScript: For interactive elements, such as sliders, modals, and form validation.
-How to Use
+Features  
+About Section: Brief introduction about myself.  
+Projects Section: Display of my key projects with descriptions, technologies used, and links to live demos or GitHub repositories.  
+Skills Section: A list of my technical and soft skills.  
+Contact Section: Contact form and social media links for networking.  
+Responsive Design: Optimized for all screen sizes, including mobile, tablet, and desktop.    
+**Technologies Used**  
+**HTML:** For the structure of the webpage.  
+**CSS:** For styling and layout, including animations and responsive design.  
+**JavaScript:** For interactive elements, such as sliders, modals, and form validation.    
+**How to Use**    
 Clone this repository:
 bash
 Copy
