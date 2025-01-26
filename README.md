@@ -6,11 +6,19 @@ Projects Section: Display of my key projects with descriptions, technologies use
 Skills Section: A list of my technical and soft skills.  
 Contact Section: Contact form and social media links for networking.  
 Responsive Design: Optimized for all screen sizes, including mobile, tablet, and desktop.    
+
+
 **Technologies Used**  
+
+
 **HTML:** For the structure of the webpage.  
 **CSS:** For styling and layout, including animations and responsive design.  
 **JavaScript:** For interactive elements, such as sliders, modals, and form validation.    
-**How to Use**    
+
+
+**How to Use**
+
+
 Clone this repository:
 bash
 Copy
@@ -22,6 +30,8 @@ Open the index.html file in a web browser to view the portfolio.
 
 
 **How It Works**
+
+
 HTML: Provides the structure of the webpage, including sections for projects, skills, and contact.
 CSS: Adds styling, such as fonts, colors, and layout. Includes media queries for responsive design.
 JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form handling.
@@ -34,16 +44,22 @@ JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form ha
 
 
 
-Future Enhancements
+**Future Enhancements**
+
+
 Add a blog section for sharing knowledge and experiences.
 Integrate a backend for form submission and project management.
 Add more animations and transitions for a better user experience.
 
-Contributing
+**Contributing**
+
+
 Contributions are welcome! If you'd like to suggest improvements or report a bug, feel free to open an issue or submit a pull request.
 
 
-Contact
+**Contact**
+
+
 Email: basnetssahil@gmail.com.com
 LinkedIn: www.linkedin.com/in/saaiil-basnet-07b617281
 GitHub: github.com/saaiilbasnet
