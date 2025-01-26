@@ -61,7 +61,9 @@ Contributions are welcome! If you'd like to suggest improvements or report a bug
 
 
 Email: basnetssahil@gmail.com.com
+
 LinkedIn: www.linkedin.com/in/saaiil-basnet-07b617281  
+
 GitHub: github.com/saaiilbasnet  
 
 
