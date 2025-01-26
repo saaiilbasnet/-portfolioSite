@@ -20,25 +20,25 @@ Responsive Design: Optimized for all screen sizes, including mobile, tablet, and
 
 
 Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/saaiilbasnet/-portfolioSite.git
-Open the index.html file in a web browser to view the portfolio.
-(Optional) If you'd like to make changes, edit the HTML, CSS, or JavaScript files in the project directory.
+bash  
+Copy  
+Edit  
+git clone https://github.com/saaiilbasnet/-portfolioSite.git  
+Open the index.html file in a web browser to view the portfolio.  
+(Optional) If you'd like to make changes, edit the HTML, CSS, or JavaScript files in the project directory.  
 
 
 
 **How It Works**
 
 
-HTML: Provides the structure of the webpage, including sections for projects, skills, and contact.
-CSS: Adds styling, such as fonts, colors, and layout. Includes media queries for responsive design.
-JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form handling.
+HTML: Provides the structure of the webpage, including sections for projects, skills, and contact.  
+CSS: Adds styling, such as fonts, colors, and layout. Includes media queries for responsive design.  
+JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form handling.  
 
-#Screenshots
+#Screenshots  
 
-![image](https://github.com/user-attachments/assets/e415e4ef-5419-4fa2-8c30-79c027796b89)
+![image](https://github.com/user-attachments/assets/e415e4ef-5419-4fa2-8c30-79c027796b89)  
 ![image](https://github.com/user-attachments/assets/e7ed67a8-6909-4d18-b499-d0236a183329)
 
 
@@ -47,23 +47,23 @@ JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form ha
 **Future Enhancements**
 
 
-Add a blog section for sharing knowledge and experiences.
-Integrate a backend for form submission and project management.
-Add more animations and transitions for a better user experience.
+Add a blog section for sharing knowledge and experiences.  
+Integrate a backend for form submission and project management.  
+Add more animations and transitions for a better user experience.  
 
 **Contributing**
 
 
-Contributions are welcome! If you'd like to suggest improvements or report a bug, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you'd like to suggest improvements or report a bug, feel free to open an issue or submit a pull request.  
 
 
 **Contact**
 
 
 Email: basnetssahil@gmail.com.com
-LinkedIn: www.linkedin.com/in/saaiil-basnet-07b617281
-GitHub: github.com/saaiilbasnet
-Feel free to replace placeholders like yourusername and your-email@example.com with your actual details. Let me know if you'd like me to add more sections or modify the content!
+LinkedIn: www.linkedin.com/in/saaiil-basnet-07b617281  
+GitHub: github.com/saaiilbasnet  
+Feel free to replace placeholders like yourusername and your-email@example.com with your actual details. Let me know if you'd like me to add more sections or modify the content! 
 
 
 
