@@ -36,7 +36,7 @@ HTML: Provides the structure of the webpage, including sections for projects, sk
 CSS: Adds styling, such as fonts, colors, and layout. Includes media queries for responsive design.  
 JavaScript: Adds interactivity like dynamic sliders, toggling menus, and form handling.  
 
-#Screenshots  
+**SCREENSHOTS**
 
 ![image](https://github.com/user-attachments/assets/e415e4ef-5419-4fa2-8c30-79c027796b89)  
 ![image](https://github.com/user-attachments/assets/e7ed67a8-6909-4d18-b499-d0236a183329)
